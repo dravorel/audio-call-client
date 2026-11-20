@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+venv-*/
+
+.idea/
+.ruff_cache/
+.env
+
+build/
+build-*/
+dist/
